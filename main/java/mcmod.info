@@ -1,0 +1,17 @@
+[
+{
+  "modid": "RTRO",
+  "name": "Retromod",
+  "description": "Adds in some blocks that are surprisingly well-adapted to the Minecraft world.",
+  "version": "1.0",
+  "mcversion": "1.6.2",
+  "logoFile": "/mcplogo.png",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["don_bruce"],
+  "credits": "MrrGingerNinja",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
